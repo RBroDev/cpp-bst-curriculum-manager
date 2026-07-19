@@ -1,5 +1,5 @@
 /**
- * ProjectTwo.cpp
+ * CurriculumManager.cpp
  * * This program implements an advising assistance tool for the Computer Science department.
  * It utilizes a Binary Search Tree (BST) to load, store, and manage course data,
  * providing efficient retrieval and alphanumeric sorting capabilities.
